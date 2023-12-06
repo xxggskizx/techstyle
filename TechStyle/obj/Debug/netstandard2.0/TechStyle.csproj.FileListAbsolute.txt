@@ -1,0 +1,27 @@
+C:\Users\USER\source\repos\TechStyle\TechStyle\bin\Debug\netstandard2.0\TechStyle.deps.json
+C:\Users\USER\source\repos\TechStyle\TechStyle\bin\Debug\netstandard2.0\TechStyle.dll
+C:\Users\USER\source\repos\TechStyle\TechStyle\bin\Debug\netstandard2.0\ref\TechStyle.dll
+C:\Users\USER\source\repos\TechStyle\TechStyle\bin\Debug\netstandard2.0\TechStyle.pdb
+C:\Users\USER\source\repos\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TechStyle\TechStyle\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.AssemblyInfo.cs
+C:\Users\USER\source\repos\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TechStyle\TechStyle\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\source\repos\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.dll
+C:\Users\USER\source\repos\TechStyle\TechStyle\obj\Debug\netstandard2.0\ref\TechStyle.dll
+C:\Users\USER\source\repos\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.pdb
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\bin\Debug\netstandard2.0\TechStyle.deps.json
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\bin\Debug\netstandard2.0\TechStyle.dll
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\bin\Debug\netstandard2.0\ref\TechStyle.dll
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\bin\Debug\netstandard2.0\TechStyle.pdb
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.csproj.AssemblyReference.cache
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\obj\Debug\netstandard2.0\App.xaml.g.cs
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\obj\Debug\netstandard2.0\CreateOrder.xaml.g.cs
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.AssemblyInfoInputs.cache
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.AssemblyInfo.cs
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.csproj.CoreCompileInputs.cache
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\obj\Debug\netstandard2.0\XamlC.stamp
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.dll
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\obj\Debug\netstandard2.0\ref\TechStyle.dll
+\\rea-data-class.res.rea.ru\сетевая папка\3-437\15.11Д-БИЦТ10_21б\Галкина, Юркевич\TechStyle\TechStyle\obj\Debug\netstandard2.0\TechStyle.pdb

@@ -1,0 +1,61 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+ xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+ x:Class="TechStyle.MainPage"
+ BackgroundColor="LightBlue">
+    <StackLayout Margin="10">
+        <Label Text="Работа с RadioButton"
+ TextColor="Black"
+ FontSize="50"
+ FontAttributes="Bold"
+ HorizontalOptions="Center" />
+        <Label Text="Какой Ваш любимый цвет?"
+ FontAttributes="Bold"
+ FontSize="20" TextColor="Brown"/>
+        <RadioButton Content ="Red"
+ FontSize="16" FontAttributes="Bold"
+ TextColor="Red"
+ GroupName="colors"
+ CheckedChanged="OnColorChanged" />
+        <RadioButton Content ="Green"
+ FontSize="16" FontAttributes="Bold"
+ TextColor="Green"
+ GroupName="colors"
+ CheckedChanged="OnColorChanged" />
+        <RadioButton Content ="Blue"
+ FontSize="16" FontAttributes="Bold"
+ TextColor="Blue"
+ GroupName="colors"
+ CheckedChanged="OnColorChanged" />
+        <RadioButton Content ="Other"
+ FontSize="16" FontAttributes="Bold"
+ GroupName="colors"
+ CheckedChanged="OnColorChanged" />
+        <Label x:Name="colorLabel"
+ FontSize="20" FontAttributes="Bold"
+ TextColor="Brown"
+ Text="Ваш любимый цвет:" />
+        <Label Text="Какой Ваш любимый фрукт?"
+ FontAttributes="Bold"
+ FontSize="20" TextColor="DarkMagenta"/>
+        <RadioButton Content ="Apple"
+ FontSize="16" FontAttributes="Bold"
+ GroupName="fruits"
+ CheckedChanged="OnFruitChanged" />
+        <RadioButton Content ="Banana"
+ FontSize="16" FontAttributes="Bold"
+ GroupName="fruits"
+ CheckedChanged="OnFruitChanged" />
+        <RadioButton Content ="Pineapple"
+ FontSize="16" FontAttributes="Bold"
+ GroupName="fruits"
+ CheckedChanged="OnFruitChanged" />
+        <RadioButton Content ="Other"
+ FontSize="16" FontAttributes="Bold"
+ GroupName="fruits"
+ CheckedChanged="OnFruitChanged" />
+        <Label x:Name="fruitLabel"
+ FontAttributes="Bold"
+ FontSize="20" TextColor="DarkMagenta"
+ Text="Ваш любимый фрукт:" />
+    </StackLayout>
+</ContentPage>
